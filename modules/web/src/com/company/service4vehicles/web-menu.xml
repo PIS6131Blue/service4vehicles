@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
+    <menu id="application-service4vehicles" insertBefore="administration" caption="mainMsg://menu_config.application-service4vehicles">
+        <item screen="service4vehicles_Client.browse" caption="mainMsg://menu_config.service4vehicles_Client.browse"/>
+        <item screen="service4vehicles_Service.browse" caption="mainMsg://menu_config.service4vehicles_Service.browse"/>
+        <item screen="SERVICE_FOR_VEHICLES.browse" caption="mainMsg://menu_config.SERVICE_FOR_VEHICLES.browse"/>
+        <item screen="service4vehicles_Order.browse" caption="mainMsg://menu_config.service4vehicles_Order.browse"/>
+    </menu>
+</menu-config>
